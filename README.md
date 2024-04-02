@@ -1,6 +1,6 @@
 # Frontend
 
-Army Facilitation Portal Frontend
+ Facilitation Portal Frontend
 
 ## Installation
 
